@@ -22,17 +22,17 @@ twitter:
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: ydrec
+twitch: crazzy_raven
 tiktok:
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
+  facebook: false
+  twitter: false
   tumblr:
   pinterest:
-  pocket:
-  reddit: true
+  pocket: true
+  reddit: false
   linkedin:
   wordpress:
   email: true
